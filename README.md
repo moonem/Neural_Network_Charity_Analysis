@@ -27,6 +27,6 @@ The analysis will be based on a dataset as a *.csv* file containing more than **
   As mentioned earlier there are a total of **12 columns** in the *charity_data.csv* file. Fig. 1 shows the imported dependencies and part of the **application_df** dataframe with data from *charity_data.csv*. 
   
   
-  ![application_df](..Resources/dependencies_application_df.png)
+  ![application_df](Resources/dependencies_application_df.png)
   
   The **EIN** and **NAME** columns seems to have no impact on the decision making of whether an applicant for funding will be successful or not. 
