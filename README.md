@@ -122,6 +122,7 @@ Since the first attempt failed to achieve the target accuracy of 75%, two more s
 From the resutls obtained from three optimization attempt show that the **model accuracy slightly improved in each attempt** (i.e., from 72.69% to 73.21%) but it still is a little short of the target accuracy of 75%. 
 
 
+
 #### Contact
 
 m.a.moonem@gmail.com
